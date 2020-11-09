@@ -1,3 +1,5 @@
 ## Firechat
 A react and firebase chat application.
-![alt text](https://github.com/arpitkarnatak/firechat/blob/main/st1.png?raw=true)
+![](https://github.com/arpitkarnatak/firechat/blob/main/st1.PNG)
+![](https://github.com/arpitkarnatak/firechat/blob/main/st2.PNG)
+![](https://github.com/arpitkarnatak/firechat/blob/main/st3.PNG)
