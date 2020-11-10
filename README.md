@@ -12,6 +12,16 @@ https://firechat-34c5e.web.app/
 4. Copy your firebase configuration and paste it in firebase.js file.
 5. Fire up the live server and see the application in action.
 
+## For Deployment
+
+I'm presuming you've already created a firebase project and app, and are done with the development part. In that case, follow the steps below:
+
+1. Install firebase and firebase dev tools. Use 'npm install firebase' and 'npm install -g firebase-tools'
+2. Go to terminal, 'firebase init' and select Firebase Hosting.
+3. Use build folder as public directory when prompted.
+4. Create a build folder with 'npm run build'
+5. Now your app is ready to be deployed. Use 'firebase deploy' and your app is online.
+
 ## SNAPSHOTS
 
 ![](https://github.com/arpitkarnatak/firechat/blob/main/st1.PNG)
